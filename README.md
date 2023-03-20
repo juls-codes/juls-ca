@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Juls
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning at BCIT
 - 💞️ I’m looking to collaborate on web development
 
